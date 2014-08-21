@@ -5,16 +5,12 @@ Formhandler ClearLog Task
 :Extension name: Formhandler ClearLog Task
 :Extension key: formhandler_clearlog_task
 :Version: 0.1.0
-:Description: Manual covering the TYPO3 CMS extension "Formhandler ClearLog Task"
+:Description: Add formhandler log table to table garbage collection task
 :Language: en
 :Author: Dan Untenzu
 :Creation: 2013-12-18
-:Keywords: orphan, file, image, fileadmin, upload, storage
+:Keywords: formhandler, log, clear, cleanup, storage
 :Licence: Open Content License available from `www.opencontent.org/opl.shtml <http://www.opencontent.org/opl.shtml>`_
-
-The content of this document is related to TYPO3, a GNU/GPL CMS/Framework available from `www.typo3.org
-<http://www.typo3.org/>`_
-
 
 EXT: Formhandler ClearLog Task
 ==============================
@@ -37,12 +33,12 @@ version 2, available from `www.gnu.org/copyleft/gpl.html
 **Table of Contents**
 
 .. toctree::
-	:maxdepth: 2
-
+   :maxdepth: 5
+   :titlesonly:
+   :glob:
 
 Introduction
 ------------
-
 
 What does it do?
 ^^^^^^^^^^^^^^^^
@@ -52,7 +48,6 @@ What does it do?
 
 - Remove entries in the formhandler log older than a given number
   of days automatically.
-
 
 Configuration
 -------------
@@ -67,7 +62,6 @@ Configuration
 
 - Adjust the other values as desired and set a frequency
 
-
 Reference
 ^^^^^^^^^
 
@@ -78,10 +72,16 @@ Known problems
 
 - None
 
+Please do not hesitate to contact me if you find any bugs or even
+better yet, send a pull request on GitHub.
+
 To-Do list
 ----------
 
 - None
+
+Please do not hesitate to contact me if you have a wishlist or usefull
+patches.
 
 ChangeLog
 ---------
