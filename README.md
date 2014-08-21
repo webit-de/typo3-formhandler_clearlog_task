@@ -8,8 +8,6 @@ Remove entries in the formhandler log older than a given number of days automati
 TYPO3 Package
 -------------
 
-T3X Package https://typo3.org/extensions/repository/download/formhandler_clearlog_task/0.1.0/t3x/
-
 TER Entry http://typo3.org/extensions/repository/view/formhandler_clearlog_task/
 
 Source
@@ -20,7 +18,9 @@ https://github.com/webit-de/typo3-formhandler_clearlog_task/tree/master/src/typo
 Documentation
 -------------
 
-Read online (HTML) https://typo3.org/extension-manuals/formhandler_clearlog_task/current/
+Read online (HTML) http://docs.typo3.org/typo3cms/extensions/formhandler_clearlog_task/
+
+Download (PDF) http://docs.typo3.org/typo3cms/extensions/formhandler_clearlog_task/_pdf/
 
 License
 -------
@@ -32,10 +32,17 @@ The GNU General Public License can be found at http://www.gnu.org/copyleft/gpl.h
 Author
 ------
 
-Dan Untenzu <untenzu@webit.de> for webit! Gesellschaft für neue Medien mbH
-(http://www.webit.de/)
+Dan Untenzu (<untenzu@webit.de> / [@pixelbrackets](https://github.com/pixelbrackets))
+for webit! Gesellschaft für neue Medien mbH (http://www.webit.de/)
+
+Changelog
+---------
+
+https://github.com/webit-de/typo3-formhandler_clearlog_task/blob/master/src/typo3/formhandler_clearlog_task/Changelog.md
 
 Contribution
 ------------
 
-This extension is Open Source so please use, patch, extend or fork it.
+> TYPO3 - inspiring people to share!
+
+This TYPO3 extension is Open Source, so please use, patch, extend or fork it.
