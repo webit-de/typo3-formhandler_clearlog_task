@@ -75,6 +75,9 @@ Known problems
 Please do not hesitate to contact me if you find any bugs or even
 better yet, send a pull request on GitHub.
 
+.. tip::
+	Issue tracker: https://github.com/webit-de/typo3-formhandler_clearlog_task/issues
+
 To-Do list
 ----------
 
@@ -83,8 +86,19 @@ To-Do list
 Please do not hesitate to contact me if you have a wishlist or usefull
 patches.
 
-ChangeLog
+.. tip::
+	Issue tracker: https://github.com/webit-de/typo3-formhandler_clearlog_task/issues
+
+Changelog
 ---------
 
-Please take a look at the »ChangeLog« file inside of the extension
-folder.
+- https://github.com/webit-de/typo3-formhandler_clearlog_task/blob/master/src/typo3/formhandler_clearlog_task/Changelog.md
+
+Contribution
+------------
+
+	TYPO3 - inspiring people to share!
+
+This TYPO3 extension is Open Source, so please use, patch, extend or fork it.
+
+- https://github.com/webit-de/typo3-formhandler_clearlog_task/
