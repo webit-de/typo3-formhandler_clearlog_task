@@ -1,6 +1,11 @@
 Changelog
 =========
 
+2014-08-22 Dan Untenzu <untenzu@webit.de>
+
+  * 0.1.3
+  * FEATURE Compatible with TYPO3 CMS version 6.2
+
 2014-08-21 Dan Untenzu <untenzu@webit.de>
 
   * 0.1.2
