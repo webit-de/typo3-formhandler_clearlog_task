@@ -13,7 +13,7 @@ TER Entry http://typo3.org/extensions/repository/view/formhandler_clearlog_task/
 Source
 ------
 
-https://github.com/webit-de/typo3-formhandler_clearlog_task/tree/master/src/typo3/formhandler_clearlog_task/
+https://github.com/webit-de/typo3-formhandler_clearlog_task/tree/master/
 
 Documentation
 -------------
@@ -38,7 +38,7 @@ for webit! Gesellschaft für neue Medien mbH (http://www.webit.de/)
 Changelog
 ---------
 
-https://github.com/webit-de/typo3-formhandler_clearlog_task/blob/master/src/typo3/formhandler_clearlog_task/Changelog.md
+https://github.com/webit-de/typo3-formhandler_clearlog_task/blob/master/Changelog.md
 
 Contribution
 ------------
