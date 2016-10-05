@@ -4,7 +4,7 @@ Formhandler ClearLog Task
 
 :Extension name: Formhandler ClearLog Task
 :Extension key: formhandler_clearlog_task
-:Version: 0.1.0
+:Version: 0.1.1
 :Description: Add formhandler log table to table garbage collection task
 :Language: en
 :Author: Dan Untenzu
@@ -92,7 +92,7 @@ patches.
 Changelog
 ---------
 
-- https://github.com/webit-de/typo3-formhandler_clearlog_task/blob/master/src/typo3/formhandler_clearlog_task/Changelog.md
+- https://github.com/webit-de/typo3-formhandler_clearlog_task/blob/master/Changelog.md
 
 Contribution
 ------------
