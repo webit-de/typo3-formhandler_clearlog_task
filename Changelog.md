@@ -3,6 +3,11 @@ Changelog
 
 2016-10-05 Dan Untenzu <untenzu@webit.de>
 
+  * 1.0.1
+  * BUGFIX Change version keys in composer file
+
+2016-10-05 Dan Untenzu <untenzu@webit.de>
+
   * 1.0.0
   * FEATURE Removed support for TYPO3 4.5
   * FEATURE Compatible with TYPO3 CMS version 7.6
