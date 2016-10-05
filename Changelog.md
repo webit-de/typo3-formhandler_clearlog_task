@@ -1,6 +1,13 @@
 Changelog
 =========
 
+2016-10-05 Dan Untenzu <untenzu@webit.de>
+
+  * 1.0.0
+  * FEATURE Removed support for TYPO3 4.5
+  * FEATURE Compatible with TYPO3 CMS version 7.6
+  * FEATURE Add composer
+
 2014-08-22 Dan Untenzu <untenzu@webit.de>
 
   * 0.1.3
