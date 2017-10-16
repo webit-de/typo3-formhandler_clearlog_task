@@ -10,6 +10,8 @@ TYPO3 Package
 
 TER Entry http://typo3.org/extensions/repository/view/formhandler_clearlog_task/
 
+Packagist Entry https://packagist.org/packages/webit-de/formhandler-clearlog-task/
+
 Source
 ------
 
