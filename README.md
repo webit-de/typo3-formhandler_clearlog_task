@@ -5,6 +5,9 @@ This TYPO3 CMS backend extension adds the formhandler log table to the »Table g
 
 Remove entries in the formhandler log older than a given number of days automatically.
 
+[![Packagist](https://img.shields.io/packagist/v/webit-de/formhandler-clearlog-task.svg)](https://packagist.org/packages/webit-de/formhandler-clearlog-task/)
+[![TYPO3](https://img.shields.io/badge/TYPO3-extension-orange.svg)](https://extensions.typo3.org/extension/formhandler_clearlog_task/)
+
 Requirements
 ------------
 
