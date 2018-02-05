@@ -1,15 +1,5 @@
 <?php
 
-########################################################################
-# Extension Manager/Repository config file for ext "formhandler_clearlog_task".
-#
-# Auto generated 18-12-2013 15:30
-#
-# Manual updates:
-# Only the data in the array - everything else is removed by next
-# writing. "version" and "dependencies" must not be touched!
-########################################################################
-
 $EM_CONF[$_EXTKEY] = array(
     'title' => 'Formhandler ClearLog Task',
     'description' => 'Add formhandler log table to table garbage collection task',
