@@ -1,6 +1,11 @@
 Changelog
 =========
 
+2018-02-05 Dan Untenzu <untenzu@webit.de>
+
+  * 2.1.0
+  * FEATURE Extend license
+
 2017-10-16 Dan Untenzu <untenzu@webit.de>
 
   * 2.0.0
