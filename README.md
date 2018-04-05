@@ -24,7 +24,7 @@ Packagist Entry https://packagist.org/packages/webit-de/formhandler-clearlog-tas
 Source
 ------
 
-https://github.com/webit-de/typo3-formhandler_clearlog_task/tree/master/
+https://github.com/webit-de/typo3-formhandler_clearlog_task/
 
 Documentation
 -------------
