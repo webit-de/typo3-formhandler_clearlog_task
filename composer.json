@@ -8,6 +8,9 @@
         "php": ">=5.5.0",
         "typo3/cms-core": "^6.2 || ^7.6"
     },
+    "suggest": {
+        "formhandler": "This package requires EXT:formhandler which is maintained anymore and has no packagist entry → use patch version https://github.com/webit-de/typo3-formhandler"
+    },
     "replace": {
         "formhandler_clearlog_task": "self.version",
         "typo3-ter/formhandler_clearlog_task": "self.version",
