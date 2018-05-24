@@ -10,3 +10,11 @@ if (!is_array($GLOBALS['TYPO3_CONF_VARS']['SC_OPTIONS']['scheduler']['tasks'][\T
         'expirePeriod' => 180
     );
 }
+
+// Register formhandler log table in "Anonymize IP addresses in database tables" task
+if (!is_array($GLOBALS['TYPO3_CONF_VARS']['SC_OPTIONS']['scheduler']['tasks'][\TYPO3\CMS\Scheduler\Task\IpAnonymizationTask::class]['options']['tables']['tx_formhandler_log'])) {
+    $GLOBALS['TYPO3_CONF_VARS']['SC_OPTIONS']['scheduler']['tasks'][\TYPO3\CMS\Scheduler\Task\IpAnonymizationTask::class]['options']['tables']['tx_formhandler_log'] = array(
+        'dateField' => 'crdate',
+        'ipField' => 'ip'
+    );
+}
