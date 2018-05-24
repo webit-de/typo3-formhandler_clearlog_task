@@ -6,7 +6,7 @@
     "type": "typo3-cms-extension",
     "require": {
         "php": ">=5.5.0",
-        "typo3/cms-core": "^6.2 || ^7.6 || ^8.7"
+        "typo3/cms-core": "^7.6 || ^8.7"
     },
     "suggest": {
         "formhandler": "This package requires EXT:formhandler which is maintained anymore and has no packagist entry → use patch version https://github.com/webit-de/typo3-formhandler"
