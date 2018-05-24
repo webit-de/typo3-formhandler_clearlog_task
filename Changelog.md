@@ -1,6 +1,12 @@
 Changelog
 =========
 
+2018-05-23 Dan Untenzu <untenzu@webit.de>
+
+  * 3.0.0
+  * FEATURE Drop support for TYPO3 4.5
+  * FEATURE Add formhandler log table to "Anonymize IP addresses in database tables" task
+
 2018-05-17 Dan Untenzu <untenzu@webit.de>
 
   * 2.2.0

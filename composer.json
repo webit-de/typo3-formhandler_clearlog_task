@@ -1,6 +1,6 @@
 {
     "name": "webit-de/formhandler-clearlog-task",
-    "description": "This TYPO3 CMS backend extension adds the formhandler log table to the »Table garbage collection« scheduler task.",
+    "description": "This TYPO3 CMS backend extension adds the formhandler log table to the »Table garbage collection« & »Anonymize IP addresses« scheduler task.",
     "homepage": "https://github.com/webit-de/typo3-formhandler_clearlog_task/",
     "license": "GPL-2.0-or-later",
     "type": "typo3-cms-extension",
@@ -9,7 +9,7 @@
         "typo3/cms-core": "^7.6 || ^8.7"
     },
     "suggest": {
-        "formhandler": "This package requires EXT:formhandler which is maintained anymore and has no packagist entry → use patch version https://github.com/webit-de/typo3-formhandler"
+        "formhandler": "This package requires EXT:formhandler which is not maintained anymore and has no Packagist entry → use patch version https://github.com/webit-de/typo3-formhandler/ instead"
     },
     "replace": {
         "formhandler_clearlog_task": "self.version",
