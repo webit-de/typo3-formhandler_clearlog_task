@@ -46,4 +46,4 @@ Changelog
 2013-12-18 Dan Untenzu <untenzu@webit.de>
 
   * 0.1.0
-  * FEATURE Add formhandler log table to table garbage collection task
+  * FEATURE Add formhandler log table to "Table garbage collection" task
