@@ -1,6 +1,9 @@
 Formhandler ClearLog Task
 =========================
 
+**💥 EOL - This repository is not maintained anymore!**
+*→ Use TYPO3 core forms instead of Formhandler now*
+
 This TYPO3 CMS backend extension adds the formhandler log table to the »Table garbage collection« & »Anonymize IP addresses« scheduler task.
 
 * Remove entries in the formhandler log older than a given number of days automatically.
